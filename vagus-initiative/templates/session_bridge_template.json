@@ -1,0 +1,16 @@
+{
+  "session_ended": null,
+  "session_duration": null,
+  "key_topics": [],
+  "unfinished_threads": [
+    "Example: Review GitHub repository setup",
+    "Example: Write project documentation"
+  ],
+  "emotional_tone": null,
+  "energy_at_close": 0.75,
+  "last_user_mood": null,
+  "pending_decisions": [],
+  "trigger_phrases": [],
+  "session_quality": null,
+  "immediate_context": "Starting fresh with The Vagus Initiative"
+}

@@ -1,0 +1,11 @@
+{
+  "depth": 0.5,
+  "last_interaction_quality": "neutral",
+  "interaction_count": 0,
+  "established_date": "2026-02-20T12:00:00",
+  "trigger_phrases": [
+    "example_phrase_1",
+    "example_phrase_2"
+  ],
+  "last_updated": "2026-02-20T12:00:00"
+}

@@ -1,0 +1,22 @@
+# Core dependencies for The Vagus Initiative
+# Minimum Python version: 3.8
+
+# No external required dependencies!
+# Uses only Python standard library:
+# - json
+# - os
+# - datetime
+# - pathlib
+# - typing
+
+# Optional dependencies for advanced features:
+
+# For encryption at rest (optional)
+# cryptography>=3.0.0
+
+# For testing (development)
+# pytest>=6.0.0
+# pytest-cov>=2.10.0
+
+# For type checking (development)
+# mypy>=0.900
